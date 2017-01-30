@@ -1,4 +1,4 @@
-int something=255;
+public int something=255;
 public void setup()
 {
 	size(500,500);
